@@ -11,6 +11,7 @@ import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
+import BackdropFilter from "react-backdrop-filter";
 
 import './Navbar.css';
 // import { Dialog, DialogContent, makeStyles } from "@mui/material";
@@ -40,18 +41,12 @@ const ResponsiveAppBar = () => {
     setAnchorElUser(null);
   };
 
-  // const useStyles = makeStyles({
-  //   root:{
-  //     backdropFilter: "blur(3px)",
-  //     backgroundColor:'rgba(0,0,30,0.4)'
-  //   }
-  // })
-  // const classes = useStyles();
+ 
 
   return (
-    <AppBar position="static" style={{ background: 'transparent', boxshadow: '5px 10px #888888' }}
+    <AppBar position="static" style={{ background: 'transparent', boxshadow: '5px 10px #888888'}}
     >
-        
+     
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Typography

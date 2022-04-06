@@ -5,8 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: linear-gradient(aquamarine, purple , red ,yellow,green, blue);
-  height: 100vh;
+  background-image: url("coldplay.jpg");
   
 }
 
