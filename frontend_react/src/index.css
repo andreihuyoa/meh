@@ -1,0 +1,16 @@
+:root{
+    --primary-color:purple;
+    --secondary-color:white;
+    --lightgray-color:grey;
+    --gray-color:grey;
+    --black-color:black;
+    --white-color:white;
+
+    /*add more colors here and change this shit */
+}
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
