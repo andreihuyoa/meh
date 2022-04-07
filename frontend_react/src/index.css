@@ -1,13 +1,5 @@
 :root{
-    --primary-color:#B58DB6;
-    --secondary-color:#3D3A4B;
-    --lightgray-color:rgb(149, 149, 149);
-    --gray-color:rgb(104, 104, 104);
-    --black-color:rgb(40, 39, 39);
-    --white-color:#F1F7ED;
-    --accents-color: #598392;
 
-    /*add more colors here and change this shit */
 }
 *{
     box-sizing: border-box;
