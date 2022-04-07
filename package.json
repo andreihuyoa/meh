@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "material-kit-react": "^1.10.0"
+    "@chec/commerce.js": "^2.8.0",
+    "@material-ui/styles": "^4.11.5",
+    "@stripe/react-stripe-js": "^1.7.1",
+    "@stripe/stripe-js": "^1.27.0",
+    "material-kit-react": "^1.10.0",
+    "react-hook-form": "^7.29.0",
+    "react-router-dom": "^6.3.0"
   }
 }
