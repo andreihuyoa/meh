@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Highlights.scss'
+import './Highlights.css'
 const Highlights = () => {
   return (
     <div>Highlights</div>
