@@ -7,12 +7,10 @@ import {makeStyles} from "@material-ui/styles";
 import {Route, Link } from 'react-router-dom';
 
 import './App.css';
-const App = () => {
+function App(){
     return(
-        <div className="App">
+        <div>
             <Mediabar />
-
-            {/* <Route exact path = "/" component={Home}/>   how to re route webpage */}
             <Navbar />
             <Header />
             <About />

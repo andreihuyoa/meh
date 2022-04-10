@@ -1,5 +1,3 @@
-import Affiliations from './Affiliations/Affiliations';
-
 export {default as About} from './About/About';
 export {default as Affiliations} from './Affiliations/Affiliations';
 export {default as Footer} from './Footer/Footer';
