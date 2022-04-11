@@ -1,7 +1,5 @@
 import React from 'react'
-
-import './Mediabar.css';
-
+import classes from './Mediabar.module.css';
 const Mediabar = () => {
   return (
     <div>Mediabar</div>
