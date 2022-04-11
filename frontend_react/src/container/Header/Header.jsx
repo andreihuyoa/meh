@@ -1,10 +1,14 @@
 import React from 'react'
-
+import Logo from '../../assets/Logo.png';
 import './Header.css';
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <>
+      <div className='headerImg'>
+          <img src={Logo} alt='headerImg' />
+      </div>
+    </>
   )
 }
 

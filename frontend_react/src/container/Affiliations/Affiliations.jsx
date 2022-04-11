@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Affiliations.css'
+import './Affiliations.module.css'
 const Affiliations = () => {
   return (
     <div>Affiliations</div>

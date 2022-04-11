@@ -7,7 +7,7 @@ import {makeStyles} from "@material-ui/styles";
 import {Route, Link } from 'react-router-dom';
 
 import './App.css';
-function App(){
+const  App = () => {
     return(
         <div>
             <Mediabar />
