@@ -51,7 +51,8 @@ const NavContainer = styled.nav`
   justify-content: center;
   position:fixed;
   z-index:1;
-  backdrop-filter:blur(10px);
+  backdrop-filter:blur(20px);
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
   width:100vw;
   margin-top:-10px;
   padding-bottom:-20px;
