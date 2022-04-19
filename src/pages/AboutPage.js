@@ -13,8 +13,8 @@ const AboutPage = () => {
           <h2>the story</h2>
           <div className="underline"></div>
         </div>
-        <p>College students who shared the same love and passion for computer peripherals led to the creation
-          of this store. A small business revolving around keyboards and other peripherals. We aim to produce the best
+        <p>College students who shared the same love and passion for home design that led to the creation
+          of this store. A small business revolving around home needs and home furnitures. We aim to produce the best
           and only the best kind of products for quality is the most important thing.
         </p>
       </article>

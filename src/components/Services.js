@@ -6,12 +6,12 @@ const Services = () => {
   return <Wrapper>
     <div className="section-center">
       <article className="header">
-        <h3>Workstation <br />==
+        <h3>Mehkee's <br />==
         <br />
           Comfort Zone
         </h3>
-        <p>We bring you all your peripheral needs,
-        from keyboards to mice and mouse pads.
+        <p>We bring you all your furniture needs,
+        from kitchen to bedrooms.
         We always have something for you</p>
       </article>
       <div className="services-center">

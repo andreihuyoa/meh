@@ -8,10 +8,10 @@ const Hero = () => {
   return <Wrapper className="section-center">
     <article className="content">
       <h1>
-        Workstation<br/> == <br /> comfort zone
+        Hello Philippines,<br/> == <br /> We are mehkee
       </h1>
       <p>
-        We bring you all your peripheral needs
+        We bring you all your furniture needs
       </p>
       <Link to="/products" className="btn hero-btn">shop now</Link>
     </article>
