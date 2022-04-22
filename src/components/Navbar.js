@@ -64,6 +64,7 @@ const NavContainer = styled.nav`
     max-width: var(--max-width);
   }
   .nav-header {
+    padding-top: 1.3rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
